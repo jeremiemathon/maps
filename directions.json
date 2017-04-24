@@ -1,0 +1,10 @@
+{
+"directions":[
+	{
+	"origin" : "Fretin, France",
+	"destination" : "Lille, France",
+	"name" : "Fretin vers Lille",
+	"waypoints": []
+	}
+]
+}
